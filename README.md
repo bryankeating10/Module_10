@@ -6,4 +6,4 @@ We can run tests locally by using pytest commands including:
 or 
  - pytest -s -v tests/integration/test_user.py --preserve-db
 ## DockerHub repository
-url
+https://hub.docker.com/r/bryankeating10/fastapi_calculator
